@@ -9,6 +9,14 @@ class Shape {
 
   // sum of all sides
   getPerimeter () {
-    // YOUR CODE HERE
+    /* solution using forEach
+     * let perim = 0;
+     * this.sideLengths.forEach(side => perim += side);
+     *
+     * return perim;
+     */
+    
+    // reduce the array of sides into a sum of their values
+    return this.sideLengths.reduce((perim, side) => perim + side, 0);
   }
 }
