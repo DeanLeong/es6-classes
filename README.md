@@ -180,7 +180,7 @@ As a rule of thumb, never fear `extends` when subclassing from a class or object
 
 
 ## Lab
-Navigate to the [JS Geometry](https://git.generalassemb.ly/sei-nyc-dragonflies/js-geometry) repo, and get hacking!
+Navigate to the [JS Geometry](https://git.generalassemb.ly/sei-nyc-phoenix/js-geometry) repo, and get hacking!
 
 ## Defining static functions
 
